@@ -19,6 +19,7 @@ class NewTransaction extends StatelessWidget {
 
     addTx(
       enteredTitle,
+        "sanfkd"
         enterAmount,
     );
   }
