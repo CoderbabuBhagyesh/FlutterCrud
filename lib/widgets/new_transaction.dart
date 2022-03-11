@@ -15,11 +15,11 @@ class NewTransaction extends StatelessWidget {
     if (enteredTitle.isEmpty || enterAmount <= 0) {
       return;
 
-    }
+    }https://github.com/CoderbabuBhagyesh/FlutterCrud/pull/1#issue-1166030416
 
     addTx(
       enteredTitle,
-        "sanfkd"
+        "hisdjfk"
         enterAmount,
     );
   }
